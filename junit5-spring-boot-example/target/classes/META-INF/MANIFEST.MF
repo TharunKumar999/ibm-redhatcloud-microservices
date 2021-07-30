@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: 001Z8B744
+Build-Jdk: 15.0.2
+Implementation-Title: junit5-spring-boot-example
+Implementation-Version: 0.1.0
+Implementation-Vendor-Id: org.springframework
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/junit5-spring-boot-example
+Created-By: Maven Integration for Eclipse
+
